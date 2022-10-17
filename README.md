@@ -6,7 +6,7 @@ User Reference Manual
 Schematic of Nemanano 
 |    NAME     |   PORT  |  ID    |                           MEAN                           |
 |-------------|---------|--------|----------------------------------------------------------|
-| Port buzzer |   D2    | BUZ    | Alarm with difference tone frequency                     |
+| buzzer      |   D2    | BUZ    | Alarm with difference tone frequency                     |
 | Optocoupler |   D3    | OPT    |                                                          |
 | Rotary A    |   A1    | ROA    |                                                          |
 | Rotary B    |   A2    | ROB    |                                                          |
