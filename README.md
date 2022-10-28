@@ -7,7 +7,7 @@ Schematic of Nemanano
 |    NAME     |   PORT  |  ID    |                           MEAN                           |
 |-------------|---------|--------|----------------------------------------------------------|
 | buzzer      |   D2    | BUZ    | Alarm with difference tone frequency                     |
-| Optocoupler |   D3    | OPT    |                                                          |
+| Optocoupler |   D3    | OPT    | Interrupt power ,switch up or down the power             |
 | Rotary A    |   A1    | ROA    |                                                          |
 | Rotary B    |   A2    | ROB    |                                                          |
 | Rotary SW   |   A3    | ROW    |                                                          |
